@@ -1,0 +1,5 @@
+<launch>
+    <node name="talker" pkg="hello_ros" type="talker" output="screen" launch-prefix="gnome-terminal -x" />
+    <node name="listener" pkg="hello_ros" type="talker" output="screen" launch-prefix="gnome-terminal -x"/>
+    <node name="ten" pkg="hello_ros" type="ten" output="screen" launch-prefix="gnome-terminal -x"/>
+</launch>

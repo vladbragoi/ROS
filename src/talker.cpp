@@ -1,4 +1,3 @@
-
 /*
  * Copyright (C) 2008, Morgan Quigley and Willow Garage, Inc.
  *
